@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mafruda Jaman</h1>
-<h3 align="center">A passionate competitive programmer</h3>
+<h3 align="center">A passionate Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafruda14&label=Profile%20views&color=0e75b6&style=flat" alt="mafruda14" /> </p>
 
