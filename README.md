@@ -17,10 +17,7 @@
 
 - 🌱 Currently learning **Machine Learning & DSA**
 - 💡 Love solving complex problems with elegant code
-- 🎯 Goal: Become a **full-stack AI developer**
 - ⚡ Fun fact: I debug faster than I type! 😄
-
----
 
 ### 🌐 Connect With Me
 
@@ -50,21 +47,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mafruda14&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafruda14&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mafruda14&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 
