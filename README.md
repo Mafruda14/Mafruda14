@@ -3,7 +3,7 @@
   Hi 👋, I'm Mafruda Jaman
 </h1>
 
-<h3 align="center">🚀 Competitive Programmer | ML Enthusiast | Problem Solver 🚀</h3>
+<h3 align="center">🚀 Competitive Programmer | AI/ML Enthusiast | Problem Solver 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mafruda14&label=Profile%20Views&color=6A0DAD&style=flat-square" alt="mafruda14" />
@@ -48,13 +48,6 @@
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mafruda14&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 📈 Activity Graph
 
