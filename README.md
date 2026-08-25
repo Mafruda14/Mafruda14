@@ -49,14 +49,6 @@
 </p>
 
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafruda14&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=6A0DAD&line=6A0DAD&point=FFFFFF" alt="Activity Graph" />
-</p>
-
----
-
 ### 💪 Coding Stats
 
 ```text
