@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mafruda14&label=Profile%20Views&color=6A0DAD&style=flat-square" alt="mafruda14" />
-  <img src="https://img.shields.io/github/followers/mafruda14?label=Followers&style=flat-square&color=6A0DAD" alt="followers" />
+  <!-- <img src="https://img.shields.io/github/followers/mafruda14?label=Followers&style=flat-square&color=6A0DAD" alt="followers" /> -->
   <img src="https://img.shields.io/github/stars/mafruda14?label=Stars&style=flat-square&color=FFD700" alt="stars" />
 </p>
 
