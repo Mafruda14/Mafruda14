@@ -18,18 +18,18 @@
 
 I'm a **Computer Science & Engineering student** passionate about building strong problem-solving skills and exploring intelligent software solutions.
 
-* 🧠 Currently learning **Machine Learning, Data Science & DSA**
-* 💻 Active in **Competitive Programming**
-* 🔬 Interested in **AI/ML research and real-world problem solving**
-* 🐍 Comfortable with **Python & C++**
-* 🌱 Continuously improving my **algorithms, software development & research skills**
-* ⚡ Fun fact: **I debug faster than I type! 😄**
+*  Currently learning **Machine Learning, Data Science & DSA**
+*  Active in **Competitive Programming**
+*  Interested in **AI/ML research and real-world problem solving**
+*  Comfortable with **Python & C++**
+*  Continuously improving my **algorithms, software development & research skills**
+
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
-### 💻 Programming & Problem Solving
+###  Programming & Problem Solving
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
@@ -53,7 +53,6 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 * Data Preprocessing
 * Exploratory Data Analysis
 * Model Training & Evaluation
-* Scikit-learn
 * Pandas & NumPy
 * Basic Statistical Analysis
 
@@ -67,8 +66,7 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 * HTML, CSS & JavaScript
 * React Fundamentals
-* REST API Concepts
-* Frontend–Backend Integration
+* Frontend–Backend Beginners level
 * Git & GitHub
 
 ---
@@ -81,7 +79,6 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 * SQL & Database Fundamentals
 * Git & GitHub
-* Linux Environment
 * VS Code
 * Jupyter Notebook
 
@@ -114,16 +111,16 @@ I enjoy solving algorithmic problems and continuously improving my competitive p
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 My current interests include:
 
-* 🤖 Machine Learning & Data Science
-* ☁️ Cloud Computing
-* ⚙️ Intelligent Software Systems
-* 🖥️ Operating Systems & System Optimization
-* 🌱 Green / Sustainable Computing
-* 📊 Data-Driven Problem Solving
+*  Machine Learning & Data Science
+*  Cloud Computing
+*  Intelligent Software Systems
+*  Operating Systems & System Optimization
+*  Green / Sustainable Computing
+*  Data-Driven Problem Solving
 
 I'm particularly interested in applying computing techniques to **real-world problems and research-oriented projects**.
 
@@ -131,40 +128,28 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 ## 🚀 Projects
 
-### 🐍 Python Projects
+###  Python Projects
 
-* 🔐 Encrypted Message System
-* 📇 Contact Book Application
-* ❤️ Love for Palestine
-* 🔔 Notification System
-* 🎮 Hangman Game
-* 🐍 Snake Game
-* ✊ Rock Paper Scissors
-* 🌍 Country Map
-* 🎯 Number Guessing Game
+*  Encrypted Message System
+*  Contact Book Application
+*  Love for Palestine
+*  Notification System
+*  Hangman Game
+*  Snake Game
+*  Rock Paper Scissors
+*  Country Map
+*  Number Guessing Game
 
 ### 🤖 AI / ML
 
-* Machine Learning experiments
-* Data analysis projects
-* ML-based problem-solving and research exploration
+* House Price prediction 
 
-> 🚧 More research-oriented projects are currently in progress.
+>  More research-oriented projects are currently in progress.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafruda14&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafruda14&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafruda14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -200,25 +185,9 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 </p>
 
----
 
-## 💭 Current Focus
-
-```text
-Competitive Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Machine Learning & Data Science
-        ↓
-Research & Real-World Problems
-        ↓
-Building Intelligent Software Solutions
-```
-
----
 
 <h3 align="center">
-  ⭐ Keep Learning • Keep Solving • Keep Building ⭐
+   Keep Learning • Keep Solving • Keep Building 
 </h3>
 
