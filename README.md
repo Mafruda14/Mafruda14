@@ -146,44 +146,13 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 >  More research-oriented projects are currently in progress.
 
----
-
-
-
 
 ## 🌐 Connect With Me
 
-<p align="left">
+* **Codeforces:** [Mafruda14](https://codeforces.com/profile/mafruda14)
+* **LinkedIn:** [Mafruda Jaman](https://linkedin.com/in/mafrudajaman)
+* **Email:** [mafrudajaman@gmail.com](mailto:mafrudajaman@gmail.com)
 
-<a href="https://linkedin.com/in/mafrudajaman">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-
-<a href="https://kaggle.com/mafrudajaman">
-<img src="https://skillicons.dev/icons?i=kaggle" width="40"/>
-</a>
-
-<a href="https://fb.com/mafrudajaman">
-<img src="https://skillicons.dev/icons?i=facebook" width="40"/>
-</a>
-
-<a href="https://instagram.com/mafruda">
-<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-
-<a href="https://codeforces.com/profile/mafruda14">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" width="40"/>
-</a>
-
-<a href="https://www.codechef.com/users/flash_feat_14">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
-</a>
-
-<a href="https://www.leetcode.com/mafrudajaman">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" width="40"/>
-</a>
-
-</p>
 
 
 
