@@ -3,7 +3,7 @@
   Hi 👋, I'm Mafruda Jaman
 </h1>
 
-<h3 align="center">🚀 Competitive Programmer | AI/ML Enthusiast | Problem Solver 🚀</h3>
+<h3 align="center"> Competitive Programmer | AI/ML Enthusiast | Problem Solver </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mafruda14&label=Profile%20Views&color=6A0DAD&style=flat-square" alt="mafruda14" />
@@ -15,9 +15,9 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning **Machine Learning & DSA**
-- 💡 Love solving complex problems with elegant code
-- ⚡ Fun fact: I debug faster than I type! 😄
+-  Currently learning **Machine Learning & DSA**
+-  Love solving complex problems with elegant code
+-  Fun fact: I debug faster than I type! 😄
 
 ### 🌐 Connect With Me
 
@@ -49,7 +49,7 @@
 </p>
 
 
-### 💪 Coding Stats
+###  Coding Stats
 
 ```text
 🎯 Problem Solved:     █████████████░░░░░░░░   250+ (and counting)
