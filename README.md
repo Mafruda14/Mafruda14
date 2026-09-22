@@ -31,9 +31,9 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ###  Programming & Problem Solving
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
-</p>
+</p> -->
 
 * Data Structures & Algorithms
 * Competitive Programming
@@ -45,9 +45,9 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ### 🤖 AI / Machine Learning
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
+</p> -->
 
 * Machine Learning Fundamentals
 * Data Preprocessing
@@ -60,9 +60,9 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ### 🌐 Software & Web Development
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+</p> -->
 
 * HTML, CSS & JavaScript
 * React Fundamentals
@@ -73,9 +73,9 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ### 🗄️ Data & Development Tools
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
-</p>
+</p> -->
 
 * SQL & Database Fundamentals
 * Git & GitHub
@@ -151,7 +151,7 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 * **Codeforces:** [Mafruda14](https://codeforces.com/profile/mafruda14)
 * **LinkedIn:** [Mafruda Jaman](https://linkedin.com/in/mafrudajaman)
-* **Email:** [mafrudajaman@gmail.com](mailto:mafrudajaman@gmail.com)
+* **Email:** [mafrudajaman14@gmail.com](mailto:mafrudajaman@gmail.com)
 
 
 
