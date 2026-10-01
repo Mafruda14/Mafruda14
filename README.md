@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Competitive Programmer • AI/ML Enthusiast • Research-Oriented Developer
+  Competitive Programmer • AI/ML Enthusiast • Research-Oriented 
 </h3>
 
 <p align="center">
