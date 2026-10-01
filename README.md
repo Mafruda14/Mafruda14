@@ -128,7 +128,7 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 ## 🚀 Projects
 
-###  Python Projects
+###  Python Projects (Learning & Practice)
 
 *  Encrypted Message System
 *  Contact Book Application
