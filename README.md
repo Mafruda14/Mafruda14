@@ -128,7 +128,7 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 ## 🚀 Projects
 
-###  Python Projects (Learning & Practice)
+###  Beginner Python Projects(Learning & Practice)
 
 *  Encrypted Message System
 *  Contact Book Application
@@ -139,6 +139,8 @@ I'm particularly interested in applying computing techniques to **real-world pro
 *  Rock Paper Scissors
 *  Country Map
 *  Number Guessing Game
+### Intermediate (React + JavaScript + Vite + CSS)
+* SafeBangla 
 
 ### 🤖 AI / ML
 
