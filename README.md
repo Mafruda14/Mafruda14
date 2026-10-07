@@ -43,7 +43,7 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ---
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -58,7 +58,7 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ---
 
-### 🌐 Software & Web Development
+###  Software & Web Development
 
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -71,7 +71,7 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ---
 
-### 🗄️ Data & Development Tools
+###  Data & Development Tools
 
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
@@ -84,7 +84,7 @@ I'm a **Computer Science & Engineering student** passionate about building stron
 
 ---
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 I enjoy solving algorithmic problems and continuously improving my competitive programming skills.
 
@@ -126,7 +126,7 @@ I'm particularly interested in applying computing techniques to **real-world pro
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ###  Beginner Python Projects(Learning & Practice)
 
@@ -142,14 +142,14 @@ I'm particularly interested in applying computing techniques to **real-world pro
 ### Intermediate (React + JavaScript + Vite + CSS)
 * SafeBangla 
 
-### 🤖 AI / ML
+###  AI / ML
 
 * House Price prediction 
 
 >  More research-oriented projects are currently in progress.
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 * **Codeforces:** [Mafruda14](https://codeforces.com/profile/mafruda14)
 * **LinkedIn:** [Mafruda Jaman](https://linkedin.com/in/mafrudajaman)
